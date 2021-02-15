@@ -1,4 +1,7 @@
 # Lenovo Yoga 720 15IKB
+cpu: i7 7700hq
+gpu: intel HD630
+
 This is a working configuration of my Hackintosh build on Yoga 720 running 10.15.6. 
 
 Wifi: BCM94360NG (native support).
